@@ -1,0 +1,4 @@
+#Sat Dec 09 22:31:27 IST 2017
+base.0=/home/darthvader/AndroidStudioProjects/GithubAPIRepos/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
