@@ -40,6 +40,7 @@ public class ActivityDisplay extends AppCompatActivity implements CallbackServic
             public void onClick(View view) {
                 Intent intent1=new Intent(ActivityDisplay.this,MainActivity.class);
                 startActivity(intent1);
+                finish();
             }
         });
     }
