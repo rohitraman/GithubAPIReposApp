@@ -55,7 +55,7 @@ public class GithubService {
                         result.append(line);
 
                     }
-                    Log.d("chutiya",result.toString());
+                    
                     return result.toString();
 
                 } catch (IOException e) {
